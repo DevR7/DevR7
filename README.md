@@ -5,6 +5,3 @@
 - 🥅  2020 Goals: Contribute more to Open Source projects
 - ⚡  Fun Fact: I love to Code and solve problems
 <br />
-
-### Languages and Tools:
-
