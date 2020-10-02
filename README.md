@@ -10,5 +10,5 @@
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Xcode" width="26px" src="https://user-images.githubusercontent.com/60741127/94921615-4873e780-04d6-11eb-8432-8aa3d570160a.jpeg" />
+<img align="left" alt="Xcode" width="26px" src="https://github.com/DevR7/DevR7/issues/1#issue-713573661" />
 <br />
